@@ -3,9 +3,9 @@
 This repository contains example code using official tools published by NopeCHA
 to bypass CAPTCHA challenges. These tools that leverage the NopeCHA API include:
 
-- [NopeCHA Browser Extension](https://github.com/NopeCHA/NopeCHA)
-- [NopeCHA Python Library](https://github.com/NopeCHA/nopecha-python)
-- [NopeCHA Node.js Library](https://github.com/NopeCHA/nopecha-nodejs)
+- [NopeCHA Browser Extension](https://github.com/nopecha-ai/nopecha-extension)
+- [NopeCHA Python Library](https://github.com/nopecha-ai/nopecha-python)
+- [NopeCHA Node.js Library](https://github.com/nopecha-ai/nopecha-nodejs)
 
 Two core features of the NopeCHA API are Recognition and Token endpoints.
 The Recognition endpoint solves image and audio challenges and returns any of
